@@ -1,0 +1,6 @@
+C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprint6\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test
+C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprint6\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test.csproj.AssemblyReference.cache
+C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprint6\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprint6\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test.AssemblyInfoInputs.cache
+C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprint6\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test.AssemblyInfo.cs
+C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprint6\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test.csproj.CoreCompileInputs.cache

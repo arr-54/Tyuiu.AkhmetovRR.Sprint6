@@ -1,0 +1,648 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{833ACD0B-8DBC-467E-9657-932BE66767AF}|Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task2.v27.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833ACD0B-8DBC-467E-9657-932BE66767AF}|Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task2.v27.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A93BA53-2A81-4976-A857-E59B918AAFD9}|Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Test\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Test.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task1.v5.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A93BA53-2A81-4976-A857-E59B918AAFD9}|Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Test\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Test.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task1.v5.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF75B3B-80B3-41BE-A05B-FC63F1B5D510}|Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task1.v5.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF75B3B-80B3-41BE-A05B-FC63F1B5D510}|Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task1.v5.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEF755B-D111-4EB7-9F98-C7209EBBCEEF}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task0.v10\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEF755B-D111-4EB7-9F98-C7209EBBCEEF}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task0.v10\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEF755B-D111-4EB7-9F98-C7209EBBCEEF}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task0.v10\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEF755B-D111-4EB7-9F98-C7209EBBCEEF}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task0.v10\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF0C17D-0361-4EE8-A747-C979710588D6}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task0.v10.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF0C17D-0361-4EE8-A747-C979710588D6}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task0.v10.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360C9EDD-440A-4FA5-8226-790DE11D6027}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task0.v10.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360C9EDD-440A-4FA5-8226-790DE11D6027}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task0.v10.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEF755B-D111-4EB7-9F98-C7209EBBCEEF}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task0.v10\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCEF755B-D111-4EB7-9F98-C7209EBBCEEF}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task0.v10\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEF755B-D111-4EB7-9F98-C7209EBBCEEF}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task0.v10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEF755B-D111-4EB7-9F98-C7209EBBCEEF}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task0.v10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0728E5-F2A8-465C-A15D-6D73F1DBE6E7}|Tyuiu.AkhmetovRR.Sprint6.Task2.V27\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task2.v27\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0728E5-F2A8-465C-A15D-6D73F1DBE6E7}|Tyuiu.AkhmetovRR.Sprint6.Task2.V27\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task2.v27\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEAB813-F07B-4B47-AA2C-A8ED11E8E70F}|Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task5.v20\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEAB813-F07B-4B47-AA2C-A8ED11E8E70F}|Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task5.v20\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8480FDD-9215-4C72-99F9-0CB6AE206812}|Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Test\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Test.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task2.v27.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8480FDD-9215-4C72-99F9-0CB6AE206812}|Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Test\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Test.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task2.v27.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7256C08B-3FDA-4D97-A647-89961A31FFBD}|Tyuiu.AkhmetovRR.Sprint6.Task1.V5\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task1.v5\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7256C08B-3FDA-4D97-A647-89961A31FFBD}|Tyuiu.AkhmetovRR.Sprint6.Task1.V5\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task1.v5\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7256C08B-3FDA-4D97-A647-89961A31FFBD}|Tyuiu.AkhmetovRR.Sprint6.Task1.V5\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task1.v5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7256C08B-3FDA-4D97-A647-89961A31FFBD}|Tyuiu.AkhmetovRR.Sprint6.Task1.V5\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task1.v5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0BE08F-5FF3-44B3-9ABB-ED308FAD4614}|Tyuiu.AkhmetovRR.Sprint6.Task6.V13\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task6.v13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0BE08F-5FF3-44B3-9ABB-ED308FAD4614}|Tyuiu.AkhmetovRR.Sprint6.Task6.V13\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task6.v13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4D3326-741A-4B63-9C96-B1D0A8C51B62}|Tyuiu.AkhmetovRR.Sprint6.Task7.V12\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task7.v12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4D3326-741A-4B63-9C96-B1D0A8C51B62}|Tyuiu.AkhmetovRR.Sprint6.Task7.V12\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task7.v12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEAB813-F07B-4B47-AA2C-A8ED11E8E70F}|Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task5.v20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEAB813-F07B-4B47-AA2C-A8ED11E8E70F}|Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task5.v20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B16AFFF-2223-40C4-83A0-60FB17338B43}|Tyuiu.AkhmetovRR.Sprint6.Task4.V24\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task4.v24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B16AFFF-2223-40C4-83A0-60FB17338B43}|Tyuiu.AkhmetovRR.Sprint6.Task4.V24\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task4.v24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27131488-3901-4C0B-B17A-873EBC4BF425}|Tyuiu.AkhmetovRR.Sprint6.Task3.V5\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task3.v5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27131488-3901-4C0B-B17A-873EBC4BF425}|Tyuiu.AkhmetovRR.Sprint6.Task3.V5\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task3.v5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0728E5-F2A8-465C-A15D-6D73F1DBE6E7}|Tyuiu.AkhmetovRR.Sprint6.Task2.V27\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task2.v27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0728E5-F2A8-465C-A15D-6D73F1DBE6E7}|Tyuiu.AkhmetovRR.Sprint6.Task2.V27\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task2.v27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259D89DF-41DA-4110-8191-5E3F28BBA730}|Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task7.v12.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259D89DF-41DA-4110-8191-5E3F28BBA730}|Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task7.v12.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F0D44C-71B3-4479-9EEB-EDACA4A706CF}|Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Test\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Test.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task7.v12.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F0D44C-71B3-4479-9EEB-EDACA4A706CF}|Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Test\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Test.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task7.v12.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B40586F-22E6-46BB-BE76-7B8D4FE4C0B9}|Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task6.v13.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B40586F-22E6-46BB-BE76-7B8D4FE4C0B9}|Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task6.v13.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32B512E-7A62-4914-BDA8-14A670CEB1E6}|Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Test\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Test.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task6.v13.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32B512E-7A62-4914-BDA8-14A670CEB1E6}|Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Test\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Test.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task6.v13.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABBBEA4-4F2B-41B4-AA17-EB0398174BB9}|Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Lib.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task5.v20.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABBBEA4-4F2B-41B4-AA17-EB0398174BB9}|Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task5.v20.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97657B35-5DA4-482C-898E-E576BB5A861F}|Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Test\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Test.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task5.v20.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97657B35-5DA4-482C-898E-E576BB5A861F}|Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Test\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Test.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task5.v20.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3A1B30-5580-4901-8FE4-992EABBCC374}|Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task4.v24.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3A1B30-5580-4901-8FE4-992EABBCC374}|Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task4.v24.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3A1B30-5580-4901-8FE4-992EABBCC374}|Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task4.v24.lib\\tyuiu.akhmetovrr.sprint6.task4.v24.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A3A1B30-5580-4901-8FE4-992EABBCC374}|Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task4.v24.lib\\tyuiu.akhmetovrr.sprint6.task4.v24.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC6F891-69EE-4F31-8524-A9BD986E739B}|Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Test\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Test.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task4.v24.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC6F891-69EE-4F31-8524-A9BD986E739B}|Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Test\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Test.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task4.v24.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B16AFFF-2223-40C4-83A0-60FB17338B43}|Tyuiu.AkhmetovRR.Sprint6.Task4.V24\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task4.v24\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B16AFFF-2223-40C4-83A0-60FB17338B43}|Tyuiu.AkhmetovRR.Sprint6.Task4.V24\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task4.v24\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA6DED2-8F28-4D76-AA92-0239ECB52688}|Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task3.v5.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA6DED2-8F28-4D76-AA92-0239ECB52688}|Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task3.v5.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA6DED2-8F28-4D76-AA92-0239ECB52688}|Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task3.v5.lib\\tyuiu.akhmetovrr.sprint6.task3.v5.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DA6DED2-8F28-4D76-AA92-0239ECB52688}|Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task3.v5.lib\\tyuiu.akhmetovrr.sprint6.task3.v5.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833ACD0B-8DBC-467E-9657-932BE66767AF}|Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task2.v27.lib\\tyuiu.akhmetovrr.sprint6.task2.v27.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{833ACD0B-8DBC-467E-9657-932BE66767AF}|Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task2.v27.lib\\tyuiu.akhmetovrr.sprint6.task2.v27.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF75B3B-80B3-41BE-A05B-FC63F1B5D510}|Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task1.v5.lib\\tyuiu.akhmetovrr.sprint6.task1.v5.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EF75B3B-80B3-41BE-A05B-FC63F1B5D510}|Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task1.v5.lib\\tyuiu.akhmetovrr.sprint6.task1.v5.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360C9EDD-440A-4FA5-8226-790DE11D6027}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task0.v10.lib\\tyuiu.akhmetovrr.sprint6.task0.v10.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{360C9EDD-440A-4FA5-8226-790DE11D6027}|Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task0.v10.lib\\tyuiu.akhmetovrr.sprint6.task0.v10.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1A8BFC-C3F3-41A4-9470-A36FFE3CC5FC}|Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Test\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Test.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task3.v5.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1A8BFC-C3F3-41A4-9470-A36FFE3CC5FC}|Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Test\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Test.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task3.v5.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27131488-3901-4C0B-B17A-873EBC4BF425}|Tyuiu.AkhmetovRR.Sprint6.Task3.V5\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.csproj|c:\\users\\comp god\\desktop\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task3.v5\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27131488-3901-4C0B-B17A-873EBC4BF425}|Tyuiu.AkhmetovRR.Sprint6.Task3.V5\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task3.v5\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\FormMain.Designer.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:56:34.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\FormMain.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\FormMain.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\FormMain.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\FormMain.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:12:48.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test\\DataServiceTest.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test\\DataServiceTest.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test\\DataServiceTest.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Test\\DataServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:14:27.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib\\DataService.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib\\DataService.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:35:45.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Test\\DataServiceTest.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Test\\DataServiceTest.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Test\\DataServiceTest.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Test\\DataServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:36:19.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib\\DataService.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib\\DataService.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:41:39.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib\\DataService.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib\\DataService.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:28:51.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\FormMain.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\FormMain.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:04:15.188Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\Program.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\Program.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\Program.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:13:06.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task2.V27\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27\\FormMain.Designer.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task2.V27\\FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:04:02.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\FormMain.Designer.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:56:26.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Test\\DataServiceTest.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Test\\DataServiceTest.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Test\\DataServiceTest.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Test\\DataServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:42:11.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task1.V5\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5\\FormMain.Designer.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task1.V5\\FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:41:28.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13\\Program.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13\\Program.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13\\Program.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:06:39.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12\\Program.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task7.V12\\Program.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12\\Program.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task7.V12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:06:54.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\Program.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\Program.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\Program.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:06:32.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5\\Program.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task1.V5\\Program.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5\\Program.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task1.V5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:37:09.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24\\Program.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task4.V24\\Program.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24\\Program.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task4.V24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:06:26.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5\\Program.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task3.V5\\Program.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5\\Program.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task3.V5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:05:40.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Test\\DataServiceTest.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Test\\DataServiceTest.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Test\\DataServiceTest.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Test\\DataServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:00:45.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\DataService.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\DataService.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:00:08.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\DataService.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\DataService.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:57:35.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27\\Program.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task2.V27\\Program.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27\\Program.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task2.V27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:40:55.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Test\\DataServiceTest.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Test\\DataServiceTest.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Test\\DataServiceTest.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Test\\DataServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:58:09.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Lib\\DataService.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Lib\\DataService.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Lib\\DataService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:54:21.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Test\\DataServiceTest.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Test\\DataServiceTest.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Test\\DataServiceTest.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Test\\DataServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:54:55.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib.csproj",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib.csproj",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib.csproj",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T12:51:33.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Test\\DataServiceTest.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Test\\DataServiceTest.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Test\\DataServiceTest.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Test\\DataServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:50:56.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib\\DataService.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib\\DataService.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task4.V24.Lib\\DataService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:50:17.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task4.V24\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task4.V24\\FormMain.Designer.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task4.V24\\FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:49:23.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib.csproj",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib.csproj",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib.csproj",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T12:47:46.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib.csproj",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib.csproj",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib.csproj",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T12:47:37.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Test\\DataServiceTest.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Test\\DataServiceTest.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Test\\DataServiceTest.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Test\\DataServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:46:21.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib\\DataService.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib\\DataService.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:45:45.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task3.V5\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task3.V5\\FormMain.Designer.cs",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task3.V5\\FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:45:04.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib.csproj",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib.csproj",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib.csproj",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib.csproj",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task0.V10.Lib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T19:28:38.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib",
+              "DocumentMoniker": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib.csproj",
+              "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib.csproj",
+              "ToolTip": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib.csproj",
+              "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task1.V5.Lib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T12:37:36.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
