@@ -5,24 +5,22 @@ namespace Tyuiu.AkhmetovRR.Sprint6.Task3.V5.Lib
     {
         public int[,] Calculate(int[,] matrix)
         {
-            
-            int[][] rows = new int[matrix.GetLength(0)][];
-            for (int i = 0; i < matrix.GetLength(0); i++)
+            int rows = matrix.GetLength(0);
+            int columns = matrix.GetLength(1);
+            int temp;
+            for (int i = 0; i < rows - 1; i++)
             {
-                rows[i] = new int[matrix.GetLength(0)];
-                for (int j = 0; j < matrix.GetLength(1); j++)
+                for (int j = i + 1; j < rows; j++)
                 {
-                    rows[i][j] = matrix[i, j];
-
-                }
-            }
-            Array.Sort(rows, (a, b) => a[2].CompareTo(b[2]));
-            for (int i = 0; i < matrix.GetLength(0); i++)
-            {
-                for (int j = 0; j < matrix.GetLength(1); j++)
-                {
-                    matrix[i, j] = rows[i][j];
-
+                    if (matrix[i, 2] > matrix[j, 2])
+                    {
+                        for (int k = 0; k < columns; k++)
+                        {
+                            temp = matrix[i, k];
+                            matrix[i, k] = matrix[j, k];
+                            matrix[j, k] = temp;
+                        }
+                    }
                 }
             }
             return matrix;

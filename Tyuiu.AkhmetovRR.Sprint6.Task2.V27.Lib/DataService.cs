@@ -18,7 +18,7 @@ namespace Tyuiu.AkhmetovRR.Sprint6.Task2.V27.Lib
                 }
                 else
                 {
-                    y = 2 * x - 3 / (Math.Cos(x) - 2 * x) + 5 * x - Math.Sin(x);
+                    y = (2 * x - 3) / (Math.Cos(x) - 2 * x) + 5 * x - Math.Sin(x);
                     y = Math.Round(y, 2);
                     valueArray[count] = y;
                     count++;
