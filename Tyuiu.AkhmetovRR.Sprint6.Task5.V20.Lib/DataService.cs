@@ -7,21 +7,22 @@ namespace Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Lib
         {
             string[] text = File.ReadAllLines(path);
             double[] result = Array.ConvertAll(text, str => Convert.ToDouble(str));
-            return result;
-        }
-        public string Delitshana2(double[] result)
-        {
-            string text = "";
+            List<double> myList = new List<double>();
+            int count = 0;
             foreach (double d in result)
             {
                 if (d % 2 == 0)
                 {
-                    double z = Math.Round(d, 3);
-                    text += z.ToString() + " ";
+                    count++;
+                    myList.Add(d);
                 }
-
             }
-            return text;
+            double[] doubles = new double[count];
+            for (int i = 0; i < doubles.Length; i++)
+            {
+                doubles[i] = Math.Round(myList[i],3);
+            }
+            return doubles;
         }
     }
 }
