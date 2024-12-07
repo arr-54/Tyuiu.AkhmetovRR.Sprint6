@@ -9,5 +9,19 @@ namespace Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Lib
             double[] result = Array.ConvertAll(text, str => Convert.ToDouble(str));
             return result;
         }
+        public string Delitshana2(double[] result)
+        {
+            string text = "";
+            foreach (double d in result)
+            {
+                if (d % 2 == 0)
+                {
+                    double z = Math.Round(d, 3);
+                    text += z.ToString() + " ";
+                }
+
+            }
+            return text;
+        }
     }
 }

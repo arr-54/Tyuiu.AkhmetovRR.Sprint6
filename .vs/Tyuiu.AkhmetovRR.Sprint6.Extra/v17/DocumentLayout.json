@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\FormMain.cs",
               "ToolTip": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6.Extra\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\FormMain.cs",
               "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task5.V20\\FormMain.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T11:14:26.024Z",
               "EditorCaption": ""
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Lib\\DataService.cs",
               "ToolTip": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6.Extra\\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Lib\\DataService.cs",
               "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Lib\\DataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T11:12:23.75Z",
               "EditorCaption": ""
@@ -72,8 +72,7 @@
               "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task5.V20.Test\\DataServiceTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T11:12:55.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T11:12:55.213Z"
             },
             {
               "$type": "Document",

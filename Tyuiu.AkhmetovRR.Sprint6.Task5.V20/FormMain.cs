@@ -19,6 +19,8 @@ namespace Tyuiu.AkhmetovRR.Sprint6.Task5.V20
                 dataGridView1.Rows.Add(data[i]);
 
             }
+            string text = ds.Delitshana2(data);
+            textBox1.Text = text;
         }
     }
 }
