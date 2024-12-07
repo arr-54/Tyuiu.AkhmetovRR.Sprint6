@@ -1,5 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using tyuiu.cources.programming.interfaces.Sprint6;
+﻿using tyuiu.cources.programming.interfaces.Sprint6;
 namespace Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib
 {
     public class DataService : ISprint6Task6V13

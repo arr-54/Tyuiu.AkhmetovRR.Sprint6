@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13\\FormMain.cs",
               "ToolTip": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6.Extra\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13\\FormMain.cs",
               "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13\\FormMain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T11:55:24.082Z",
               "IsPinned": true,
@@ -78,7 +78,7 @@
               "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\DataService.cs",
               "ToolTip": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6.Extra\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\DataService.cs",
               "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\DataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T11:55:48.643Z",
               "EditorCaption": ""
@@ -103,9 +103,10 @@
               "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Test\\DataServiceTest.cs",
               "ToolTip": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6.Extra\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Test\\DataServiceTest.cs",
               "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Test\\DataServiceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T11:56:18.698Z"
+              "WhenOpened": "2024-12-07T11:56:18.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
