@@ -19,3 +19,4 @@ C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprint6.Extra\Tyuiu.AkhmetovRR.S
 C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprint6.Extra\Tyuiu.AkhmetovRR.Sprint6.Task5.V20\obj\Debug\net8.0-windows\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.pdb
 C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprint6.Extra\Tyuiu.AkhmetovRR.Sprint6.Task5.V20\obj\Debug\net8.0-windows\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.genruntimeconfig.cache
 C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprint6.Extra\Tyuiu.AkhmetovRR.Sprint6.Task5.V20\obj\Debug\net8.0-windows\ref\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.dll
+C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprint6.Extra\Tyuiu.AkhmetovRR.Sprint6.Task5.V20\obj\Debug\net8.0-windows\Tyuiu.AkhmetovRR.Sprint6.Task5.V20.sourcelink.json

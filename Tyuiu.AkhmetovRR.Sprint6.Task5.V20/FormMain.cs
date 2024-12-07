@@ -8,20 +8,6 @@ namespace Tyuiu.AkhmetovRR.Sprint6.Task5.V20
         {
             InitializeComponent();
         }
-        public string Delitshana2(double[] result)
-        {
-            string text = "";
-            foreach (double d in result)
-            {
-                if (d % 2 == 0)
-                {
-                    double z = Math.Round(d, 3);
-                    text += z.ToString() + " ";
-                }
-
-            }
-            return text;
-        }
         private void button1_Click(object sender, EventArgs e)
         {
             DataService ds = new DataService();
@@ -33,8 +19,6 @@ namespace Tyuiu.AkhmetovRR.Sprint6.Task5.V20
                 dataGridView1.Rows.Add(data[i]);
 
             }
-            string text = Delitshana2(data);
-            textBox1.Text = text;
         }
     }
 }
