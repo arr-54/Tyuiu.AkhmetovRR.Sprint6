@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6.Extra\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib.csproj",
+      "projectUniqueName": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib.csproj",
       "projectName": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib",
-      "projectPath": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6.Extra\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib.csproj",
+      "projectPath": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib.csproj",
       "packagesPath": "C:\\Users\\COMP GOD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6.Extra\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\obj\\",
+      "outputPath": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
