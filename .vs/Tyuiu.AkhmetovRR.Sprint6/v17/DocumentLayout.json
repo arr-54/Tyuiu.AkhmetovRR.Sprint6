@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73924A15-3CB0-47BC-AB3D-4B802D3CE692}|Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib.csproj|c:\\users\\comp god\\source\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task6.v13.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73924A15-3CB0-47BC-AB3D-4B802D3CE692}|Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task6.v13.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2EFF57E-30FD-4767-B758-1420D100E0EF}|Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib.csproj|c:\\users\\comp god\\source\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task7.v12.lib\\tyuiu.akhmetovrr.sprint6.task7.v12.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2EFF57E-30FD-4767-B758-1420D100E0EF}|Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task7.v12.lib\\tyuiu.akhmetovrr.sprint6.task7.v12.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73924A15-3CB0-47BC-AB3D-4B802D3CE692}|Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib.csproj|c:\\users\\comp god\\source\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task6.v13.lib\\tyuiu.akhmetovrr.sprint6.task6.v13.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{73924A15-3CB0-47BC-AB3D-4B802D3CE692}|Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task6.v13.lib\\tyuiu.akhmetovrr.sprint6.task6.v13.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2EFF57E-30FD-4767-B758-1420D100E0EF}|Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib.csproj|c:\\users\\comp god\\source\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task7.v12.lib\\tyuiu.akhmetovrr.sprint6.task7.v12.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E2EFF57E-30FD-4767-B758-1420D100E0EF}|Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task7.v12.lib\\tyuiu.akhmetovrr.sprint6.task7.v12.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{73924A15-3CB0-47BC-AB3D-4B802D3CE692}|Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib.csproj|c:\\users\\comp god\\source\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task6.v13.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73924A15-3CB0-47BC-AB3D-4B802D3CE692}|Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib.csproj|solutionrelative:tyuiu.akhmetovrr.sprint6.task6.v13.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2EFF57E-30FD-4767-B758-1420D100E0EF}|Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib.csproj|c:\\users\\comp god\\source\\repos\\tyuiu.akhmetovrr.sprint6\\tyuiu.akhmetovrr.sprint6.task7.v12.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -138,18 +138,17 @@
               "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\DataService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T17:47:17.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T17:47:17.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DataService.cs",
               "DocumentMoniker": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\DataService.cs",
               "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\DataService.cs",
               "ToolTip": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\DataService.cs",
               "RelativeToolTip": "Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib\\DataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T17:46:35.941Z",
               "EditorCaption": ""
@@ -169,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib.csproj",
               "DocumentMoniker": "C:\\Users\\COMP GOD\\source\\repos\\Tyuiu.AkhmetovRR.Sprint6\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib.csproj",
               "RelativeDocumentMoniker": "Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib\\Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib.csproj",
