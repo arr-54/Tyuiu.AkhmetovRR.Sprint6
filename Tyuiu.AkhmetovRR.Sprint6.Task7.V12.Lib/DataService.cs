@@ -14,5 +14,10 @@ namespace Tyuiu.AkhmetovRR.Sprint6.Task7.V12.Lib
             }
             return matrix;
         }
+
+        int[,] ISprint6Task7V12.GetMatrix(string path)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

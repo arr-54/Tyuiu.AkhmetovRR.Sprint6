@@ -17,5 +17,10 @@ namespace Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib
             }
             return result;
         }
+
+        string ISprint6Task6V13.CollectTextFromFile(string path)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
