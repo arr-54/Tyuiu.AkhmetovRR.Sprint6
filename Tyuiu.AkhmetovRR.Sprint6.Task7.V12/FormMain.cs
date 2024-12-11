@@ -49,29 +49,11 @@ namespace Tyuiu.AkhmetovRR.Sprint6.Task7.V12
 
         private void button1_Click_1(object sender, EventArgs e)
         {
+            string path = openFileDialog.FileName;
+            DataService ds = new DataService();
+            int[,] matrix = ds.GetMatrix(path);
             int rowcount = 10;
             int columncount = 10;
-            int[,] matrix = new int[rowcount, columncount];
-            for (int i = 0; i < rowcount ; i++)
-            {
-                for (int j = 0; j < columncount; j++)
-                {
-                    if (dataGridViewIn.Rows[i].IsNewRow) continue;
-                    string cellValue = dataGridViewIn[j, i].Value?.ToString();
-
-                    if (!string.IsNullOrWhiteSpace(cellValue) && int.TryParse(cellValue, out int result))
-                    {
-                        matrix[i, j] = result;
-                    }
-                    else
-                    {
-                        MessageBox.Show($"Ошибка преобразования в строке {i + 1}, колонке {j + 1}: '{cellValue}' не является числом.");
-                        return;
-                    }
-                }
-            }
-            DataService ds = new DataService();
-            matrix = ds.GetMatrix(matrix);
             for (int i = 0; i < columncount; i++)
             {
                 dataGridViewOut.Columns.Add($"Column{i + 1}", $"Column{i + 1}");
