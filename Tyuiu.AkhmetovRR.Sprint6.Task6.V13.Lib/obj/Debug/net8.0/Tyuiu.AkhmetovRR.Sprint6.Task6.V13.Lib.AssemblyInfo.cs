@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7538c661adda89eb30a727230eed0d5c401422b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c52d147045bd44b5ab7416e70ea77f3bb0dc879a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.AkhmetovRR.Sprint6.Task6.V13.Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

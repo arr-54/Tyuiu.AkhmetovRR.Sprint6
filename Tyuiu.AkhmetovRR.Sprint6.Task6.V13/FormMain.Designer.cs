@@ -62,6 +62,7 @@
             TextBoxOut.Name = "TextBoxOut";
             TextBoxOut.Size = new Size(837, 23);
             TextBoxOut.TabIndex = 2;
+            TextBoxOut.TextChanged += TextBoxOut_TextChanged;
             // 
             // ButtonProcessText
             // 

@@ -18,10 +18,16 @@ namespace Tyuiu.AkhmetovRR.Sprint6.Task6.V13
         {
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
-                string filecontent = File.ReadAllText(openFileDialog1.FileName);
+                string path = openFileDialog1.FileName;
+
                 DataService ds = new DataService();
-                TextBoxOut.Text = ds.CollectTextFromFile(filecontent, openFileDialog1.FileName);
+                TextBoxOut.Text = ds.CollectTextFromFile(path);
             }
+        }
+
+        private void TextBoxOut_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
